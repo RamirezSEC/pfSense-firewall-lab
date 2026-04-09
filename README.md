@@ -68,7 +68,8 @@ Connectivity test from internal Windows Server to external network, demonstratin
 ## Documentation
 Full lab documentation available here:
 
-https://1drv.ms/w/c/37fc7e4738a514b3/IQAxzHLj6dMWQ4XdclPyzeqHAVEBVNM3LYMbEGwkpVHwJ78?e=EnHAe6
+[pfSense Virtual Firewall Outline](https://1drv.ms/w/c/37fc7e4738a514b3/IQAxzHLj6dMWQ4XdclPyzeqHAVEBVNM3LYMbEGwkpVHwJ78?e=zI3UDq)
+
 
 ## What I Learned
 <p align="center">
