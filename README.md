@@ -1,13 +1,15 @@
 # Virtual Network Security Lab
+<p align="center">
 Virtualized network security lab using pfSense firewall and Suricata IDS/IPS
 
 ## Description 
+<p align="center">
 Designed and deployed a virtualized network security lab using pfSense firewall and Suricata IDS/IPS within an Oracle VirtualBox environment. Implemented WAN/LAN segmentation, firewall rule enforcement, DHCP/DNS services, and real-time threat detection to simulate enterprise-level network security operations.
 
 ## Lab Architecture 
 <p align="center">
-pfSense firewall dashboard displaying system status, interface activity, and real-time network traffic within the virtual lab environment:  <br/>
-<img src="https://i.imgur.com/kaGv0Ms.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The lab architecture simulates a segmented enterprise network using a pfSense firewall with WAN and LAN interfaces in a VirtualBox environment. Internal systems reside on a private subnet and communicate through the firewall, which enforces security policies and monitors traffic using Suricata IDS/IPS:  <br/>
+<img src="https://i.imgur.com/mFXMYyC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 ## Technologies Used
@@ -66,9 +68,8 @@ Connectivity test from internal Windows Server to external network, demonstratin
 ## Documentation
 Full lab documentation available here:
 
-## Skills Demonstrated
-- Network Security Architecture
-- Firewall Configuration
-- IDS/IPS Implementation
-- Virtualization
-- Log Analysis
+https://1drv.ms/w/c/37fc7e4738a514b3/IQAxzHLj6dMWQ4XdclPyzeqHAVEBVNM3LYMbEGwkpVHwJ78?e=EnHAe6
+
+## What I Learned
+<p align="center">
+Through this lab, I gained practical experience building a virtualized network security environment using pfSense and Suricata. I configured WAN/LAN segmentation, DHCP services, and firewall rules, while monitoring traffic and interpreting IDS/IPS alerts. The lab reinforced my understanding of network segmentation, secure traffic flow, and intrusion detection, and gave me hands-on insight into how internal servers interact with firewall policies in a controlled enterprise-style network.
