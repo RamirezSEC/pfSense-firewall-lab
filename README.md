@@ -54,7 +54,14 @@ WAN firewall rules demonstrating a default deny posture, where all unsolicited i
 Default LAN firewall rule allowing internal network devices to initiate outbound connections, enabling controlled communication to external networks:  <br/>
 <img src="https://i.imgur.com/Z42ZQQ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+Suricata IDS/IPS alerts displaying detected network activity on the WAN interface, including source and destination traffic data, demonstrating real-time threat monitoring within the lab environment:  <br/>
+<img src="https://i.imgur.com/2yCjEDO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Connectivity test from internal Windows Server to external network, demonstrating successful routing through the pfSense firewall:  <br/>
+<img src="https://i.imgur.com/5HGHQWj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 ## Documentation
 Full lab documentation available here:
